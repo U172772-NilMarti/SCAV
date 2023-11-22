@@ -1,5 +1,5 @@
 
-Video: P2 - Python & Video - Nil Martí Valverde
+Video: S2 - Python & Video - Nil Martí Valverde
 
 README FILE
 ----------------------------------------------------------------------------------------
@@ -9,34 +9,27 @@ All the code and pictures used are uploaded. Of course you can use your own.
 
 To run the code you only have to change the input and output image directories to your own directories.
 Useful Information:
-Task2: You can select the resolution you want by pressing a, b or c on the keyboard. The code takes a little time to execute, please be patient.
-A message saying Modification of the resolution completed will appear when it finishes running.
 
-Task3: You can select the chroma subsampling you want by pressing d, e or f on the keyboard.
+TASK4(): impossible to download subtitles and videos online (youtube). I have tried with all my might but it has not been possible, the code is always broken.
 
-Task5: We inherith the previous Lab as P1_script. I have used as an example task 4 of the previous lab, which Use FFMPEG to transform the previous image
-into b/w. Of course you can use any other functions or tasks. It's up to you
+The first and last task, the code has been taken from the ffmpeg page directly, since it is also Petava. I attach the links.
+
+https://superuser.com/questions/1784056/how-to-extract-individual-macroblock-types-and-their-corresponding-motion-vector
+
+https://trac.ffmpeg.org/wiki/Histogram
+
+The other bars do what the statement asks.
+
 
 
 The libraries that I have used, and you need to install to compile the project are, because if we want to use functions from the previous lab they are necessary!:
 
 -import subprocess
-
 -from pynput import keyboard
+-import json
+-import YUV
+-import subtitles
 
 
--import P1_script
-
--import ffmpeg
-
--import struct
-
--import numpy as np
-
--from scipy.fftpack import dct, idct
-
--import matplotlib.pyplot as plt
-
--from PIL import Image
 
 
