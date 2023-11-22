@@ -3,7 +3,7 @@ Video: S2 - Python & Video - Nil Martí Valverde
 
 README FILE
 ----------------------------------------------------------------------------------------
-This task is divided in 5 Tasks. You can select the task that you want to execute
+This task is divided in 6 Tasks. You can select the task that you want to execute
 by pressing the corresponding number on your keyboard, i.e if you want task 1 press nº1, etc.
 All the code and pictures used are uploaded. Of course you can use your own.
 
